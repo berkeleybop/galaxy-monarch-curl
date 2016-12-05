@@ -14,6 +14,8 @@ This project wraps the Gene Ontology SOLR services (GOLR) exposed by the      `M
 To Update
 =========
 
+<a href="http://planemo.readthedocs.io/en/latest/installation.html">Install planemo</a>
+
 ::
 
     planemo test
